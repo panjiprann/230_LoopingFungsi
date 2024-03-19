@@ -12,10 +12,10 @@ int main(){
 
     while (bilangan%2)
     {
-     cout << "bilangan " bilangan << "adalah ganjil";
+     cout << "bilangan " << bilangan << "adalah ganjil";
      bilangan = rand() % 10;
     }
-     cout << "bilangan " bilangan << "adalah genap" << endl;
+     cout << "bilangan " << bilangan << "adalah genap" << endl;
 
 }
     

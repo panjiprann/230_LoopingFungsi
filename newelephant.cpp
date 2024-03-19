@@ -35,6 +35,9 @@ int totalHarga()
     cout << "==================" << endl;
     cout << endl;
     cout << "jumlah puma = " << nPuma << endl;
+    cout << "jumlah adidas = " << nAdidas << endl;
+    cout << "jumlah compass = " << nCompass << endl;
+    cout << "jumlah nike = " << nNike << endl;
     cout << endl;
     cout << "Total Harga = Rp." << totalHarga() << endl;
 

@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-    int i; string nama;
-    for (i = 7; i < 0; i--)
+    int i; string nama[5];
+    for (i = 7; i < 0; i++)
     {
         cout << "smith" << endl;
     }

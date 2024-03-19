@@ -36,8 +36,8 @@ int totalHarga()
     cout << endl;
     cout << "jumlah puma = " << nPuma << endl;
     cout << endl;
-    cout << "Total Harga = Rp." << total harga() << endl;
-    
+    cout << "Total Harga = Rp." << TotalHarga() << endl;
+
  }
 
 int main()
